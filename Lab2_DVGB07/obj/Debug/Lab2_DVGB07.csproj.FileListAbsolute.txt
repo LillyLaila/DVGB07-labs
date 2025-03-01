@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Lab2_DVGB07\bin\Debug\Lab2_DVGB07.exe.config
+C:\Users\ASUS\source\repos\Lab2_DVGB07\bin\Debug\Lab2_DVGB07.exe
+C:\Users\ASUS\source\repos\Lab2_DVGB07\bin\Debug\Lab2_DVGB07.pdb
+C:\Users\ASUS\source\repos\Lab2_DVGB07\obj\Debug\Lab2_DVGB07.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Lab2_DVGB07\obj\Debug\Lab2_DVGB07.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Lab2_DVGB07\obj\Debug\Lab2_DVGB07.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Lab2_DVGB07\obj\Debug\Lab2_DVGB07.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Lab2_DVGB07\obj\Debug\Lab2_DVGB07.exe
+C:\Users\ASUS\source\repos\Lab2_DVGB07\obj\Debug\Lab2_DVGB07.pdb
+C:\Users\ASUS\source\repos\Lab2_DVGB07\obj\Debug\Lab2_DVGB07.Form1.resources
+C:\Users\ASUS\source\repos\Lab2_DVGB07\obj\Debug\Lab2_DVGB07.LottoProgram.resources
