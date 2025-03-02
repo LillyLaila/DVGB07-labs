@@ -2,7 +2,7 @@
 C# .NET labs with Windows Form
 
 ## Lab 2
-Calculator Program
+Calculator Program & 
 LottoProgram
 
 ## Lab 3
