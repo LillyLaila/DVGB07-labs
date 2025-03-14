@@ -1,0 +1,14 @@
+/Users/lilly/Desktop/C#/bin/Debug/net9.0/C#
+/Users/lilly/Desktop/C#/bin/Debug/net9.0/C#.deps.json
+/Users/lilly/Desktop/C#/bin/Debug/net9.0/C#.runtimeconfig.json
+/Users/lilly/Desktop/C#/bin/Debug/net9.0/C#.dll
+/Users/lilly/Desktop/C#/bin/Debug/net9.0/C#.pdb
+/Users/lilly/Desktop/C#/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lilly/Desktop/C#/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/Users/lilly/Desktop/C#/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/Users/lilly/Desktop/C#/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/Users/lilly/Desktop/C#/obj/Debug/net9.0/C#.dll
+/Users/lilly/Desktop/C#/obj/Debug/net9.0/refint/C#.dll
+/Users/lilly/Desktop/C#/obj/Debug/net9.0/C#.pdb
+/Users/lilly/Desktop/C#/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/Users/lilly/Desktop/C#/obj/Debug/net9.0/ref/C#.dll
